@@ -19,7 +19,7 @@ const PROJECTS = [{
 {
     id: 3,
     title: 'Example Jenkins Application',
-    description: 'A Java app that i built, involving Jenkins to learn how to build a pipeline!',
+    description: 'A Java app involving Jenkins to learn how to build a pipeline!',
     link : 'https://github.com/yashkasat21/jenkin-devops-microservice',
     image: project3
 }];
